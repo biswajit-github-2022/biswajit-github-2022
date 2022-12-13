@@ -1,8 +1,9 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<div align="center"> <img  src="https://media4.giphy.com/media/xTiTnx37nc3vjsdeLK/giphy.gif?cid=ecf05e471n6hi1fkpucmyvcxd46ez2i37gdiny8zxhhn6p7q&rid=giphy.gif&ct=g" alt="" width="1100px" height="200px"> <div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=70&duration=4986&pause=1000&color=00F781&background=0D111700&center=true&vCenter=true&width=1000&height=100&lines=WELCOME+TO+MY+GITHUB+PAGE" alt="Typing SVG" /></a><div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-[![](https://visitcount.itsvg.in/api?id=biswajit-oaku&icon=4&color=1)](https://visitcount.itsvg.in)
+  
+![](https://komarev.com/ghpvc/?username=biswajit-github-2022&color=dc143c)
+  
 <h1 align="center">Hi there 👋🏼 Biswajit Here !</h1>
 
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
