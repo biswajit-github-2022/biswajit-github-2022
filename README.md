@@ -19,7 +19,7 @@
 2.<a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_2" target="blank_">Classifying satellite images in River and Non River class using NaiveBayes</a><br>
 3.<a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_3" target="blank_">Using Preceptron Algorithm to Fit a line Between two linearly seperable data</a><br>
 4.<a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_4" target="blank_">Using K-Means Clustering algo to create classes for Satellite images </a><br>
-4.<a href="https://github.com/biswajit-github-2022/RKMVERI/tree/master/1st_sem_PAPERS_materials/STAT/EDA/EDA" target="blank_">Exploratory Data Analytics Using R on a Body Performance Dataset</a><br>
+5.<a href="https://github.com/biswajit-github-2022/RKMVERI/tree/master/1st_sem_PAPERS_materials/STAT/EDA/EDA" target="blank_">Exploratory Data Analytics Using R on a Body Performance Dataset</a><br>
 
 <a href="https://linkedin.com/in/biswajit-rana" target="blank_"><img align="center"
             src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"
