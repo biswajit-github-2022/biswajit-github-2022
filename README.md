@@ -14,11 +14,11 @@
 
 ◽ Currently Learning  -ML,Time Series, Statistics, Big Data Technologies(Spark,Hadoop)<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="" width="15px">
 
-◽ Projects:
-<a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_1" target="blank_">Classifying HandWirtten Digit MNIST dataset using KNN </a><br>
-<a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_2" target="blank_">Classifying satellite images in River and Non River class using NaiveBayes</a><br>
-<a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_3" target="blank_">Using Preceptron Algorithm to Fit a line Between two linearly seperable data</a><br>
-<a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_4" target="blank_">Using K-Means Clustering algo to create classes for Satellite images </a><br>
+◽ Projects:<br>
+1.<a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_1" target="blank_">Classifying HandWirtten Digit MNIST dataset using KNN </a><br>
+2.<a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_2" target="blank_">Classifying satellite images in River and Non River class using NaiveBayes</a><br>
+3.<a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_3" target="blank_">Using Preceptron Algorithm to Fit a line Between two linearly seperable data</a><br>
+4.<a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_4" target="blank_">Using K-Means Clustering algo to create classes for Satellite images </a><br>
 
 <a href="https://linkedin.com/in/biswajit-rana" target="blank_"><img align="center"
             src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"
