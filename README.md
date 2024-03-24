@@ -12,7 +12,7 @@
 
 ◽ Im a Web Developer/Data Science Student💻
 
-◽ Currently Learning  -ML,Time Series, Statistics, Big Data Technologies(Spark,Hadoop)<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="" width="15px">
+◽ Currently Learning  -Machine Learning , Time Series , Statistics , Big Data Technologies(Spark,Hadoop) <img src="" alt="" width="15px">
 
 ◽ Projects:<br>
 1.<a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_1" target="blank_">Classifying HandWirtten Digit MNIST dataset using KNN </a><br>
