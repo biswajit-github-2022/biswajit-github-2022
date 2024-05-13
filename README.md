@@ -31,7 +31,7 @@
             src="https://cdn.usbrandcolors.com/images/logos/facebook-logo.svg"
             alt="biswajit_0_0_" height="33" width="40" /></a>
 <a href="https://twitter.com/B_R_0_0" target="blank_"><img align="center"
-            src="[https://img.icons8.com/color/512/twitter.png](https://w7.pngwing.com/pngs/591/906/png-transparent-x-logo-new-twitter-logo.png)"
+            src="https://w7.pngwing.com/pngs/591/906/png-transparent-x-logo-new-twitter-logo.png"
             alt="biswajit_0_0_" height="40" width="40" /></a>
  
  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
