@@ -27,11 +27,11 @@
 <a href="https://instagram.com/biswajit_0_0_" target="blank_"><img align="center"
             src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-png-full-colour-glyph.png"
             alt="biswajit_0_0_" height="30" width="32" /></a>
-<a href="#" target="blank_"><img align="center"
+<a href="https://www.facebook.com/biswajitrana13/" target="blank_"><img align="center"
             src="https://cdn.usbrandcolors.com/images/logos/facebook-logo.svg"
             alt="biswajit_0_0_" height="33" width="40" /></a>
-<a href="#" target="blank_"><img align="center"
-            src="https://img.icons8.com/color/512/twitter.png"
+<a href="https://twitter.com/B_R_0_0" target="blank_"><img align="center"
+            src="https://img.icons8.com/color/512/twitter.png](https://w7.pngwing.com/pngs/591/906/png-transparent-x-logo-new-twitter-logo.png"
             alt="biswajit_0_0_" height="40" width="40" /></a>
  
  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
