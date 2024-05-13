@@ -31,8 +31,8 @@
             src="https://cdn.usbrandcolors.com/images/logos/facebook-logo.svg"
             alt="biswajit_0_0_" height="33" width="40" /></a>
 <a href="https://twitter.com/B_R_0_0" target="blank_"><img align="center"
-            src="https://toppng.com/uploads/preview/twitter-x-logo-round-outline-white-png-11690230649sbkkvv7iot.png"
-            alt="biswajit_0_0_" height="40" width="40" /></a>
+            src="https://i.pinimg.com/736x/2b/a7/17/2ba717ac010d3b9f8d26e9db4da291b8.jpg"
+            alt="B_R_0_0" height="40" width="40" /></a>
  
  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
