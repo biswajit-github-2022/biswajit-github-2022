@@ -11,11 +11,11 @@
 
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
-<h1> 👨🏼‍💻About Me :</h1>
+# 👨🏼‍💻About Me👨🏼‍💻
 
 ◽ Im a Web Developer/Data Science Student💻
 
-◽ Currently Learning  -Machine Learning , Time Series , Statistics , Big Data Technologies(Spark,Hadoop) <img src="" alt="" width="15px">
+◽ Currently Learning  -Machine Learning , Time Series , Statistics , Big Data Technologies(Spark,Hadoop) <img src="" alt="" width="15px"><br>
 <a href="https://linkedin.com/in/biswajit-rana" target="blank_"><img align="center"
             src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"
             alt="biswajit-rana" height="30" width="40" /></a>
@@ -36,15 +36,18 @@
             alt="biswajitrana" height="40" width="40" /></a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-◽ Projects:<br>
+
+# 📚Projects📚
+<br>
 <a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_1" target="blank_">Classifying HandWirtten Digit MNIST dataset using KNN </a><br>
 <a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_2" target="blank_">Classifying satellite images in River and Non River class using NaiveBayes</a><br>
 <a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_3" target="blank_">Using Preceptron Algorithm to Fit a line Between two linearly seperable data</a><br>
 <a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_4" target="blank_">Using K-Means Clustering algo to create classes for Satellite images </a><br>
 <a href="https://github.com/biswajit-github-2022/RKMVERI/tree/master/1st_sem_PAPERS_materials/STAT/EDA/EDA" target="blank_">Exploratory Data Analytics Using R on a Body Performance Dataset</a><br>
+
  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-# 🎯Learned Skills :
+# 🎯Learned Skills🎯
   <div>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt=""> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt=""> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt=""> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt=""> <img src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=white" alt="">
     
