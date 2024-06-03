@@ -25,7 +25,7 @@
             src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"
             alt="biswajit-rana" height="30" width="40" /></a>
 <a href="https://instagram.com/biswajit_0_0_" target="blank_"><img align="center"
-            src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-png-full-colour-glyph.png"
+            src="https://c0.klipartz.com/pngpicture/563/338/gratis-png-logotipo-de-instagram-logotipo-de-iconos-de-computadora-compartiendo-diseno-plano-instagram.png"
             alt="biswajit_0_0_" height="30" width="32" /></a>
 <a href="https://www.facebook.com/biswajitrana13/" target="blank_"><img align="center"
             src="https://cdn.usbrandcolors.com/images/logos/facebook-logo.svg"
