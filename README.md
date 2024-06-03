@@ -37,7 +37,7 @@
             src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png"
             alt="biswajit276" height="40" width="40" /></a>
 <a href="https://discordapp.com/users/757970753605075124" target="blank_"><img align="center"
-            src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6918e57475a843f59f_icon_clyde_black_RGB.svg"
+            src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg"
             alt="biswajitrana" height="40" width="40" /></a>
 
  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
