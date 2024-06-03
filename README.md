@@ -6,7 +6,6 @@ This is a simple digital clock with a neon glow effect created using HTML, CSS, 
 
 To use this code, simply copy the HTML, CSS, and JavaScript into your project. Below is the combined code for ease of use.
 
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
