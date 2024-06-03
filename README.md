@@ -22,7 +22,7 @@
 <a href="https://github.com/biswajit-github-2022/RKMVERI/tree/master/1st_sem_PAPERS_materials/STAT/EDA/EDA" target="blank_">Exploratory Data Analytics Using R on a Body Performance Dataset</a><br>
 
 <a href="https://linkedin.com/in/biswajit-rana" target="blank_"><img align="center"
-            src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"
+            src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"
             alt="biswajit-rana" height="30" width="40" /></a>
 <a href="https://instagram.com/biswajit_0_0_" target="blank_"><img align="center"
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/600px-Instagram_logo_2022.svg.png"
