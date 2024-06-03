@@ -16,14 +16,6 @@
 ◽ Im a Web Developer/Data Science Student💻
 
 ◽ Currently Learning  -Machine Learning , Time Series , Statistics , Big Data Technologies(Spark,Hadoop) <img src="" alt="" width="15px">
-
-◽ Projects:<br>
-<a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_1" target="blank_">Classifying HandWirtten Digit MNIST dataset using KNN </a><br>
-<a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_2" target="blank_">Classifying satellite images in River and Non River class using NaiveBayes</a><br>
-<a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_3" target="blank_">Using Preceptron Algorithm to Fit a line Between two linearly seperable data</a><br>
-<a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_4" target="blank_">Using K-Means Clustering algo to create classes for Satellite images </a><br>
-<a href="https://github.com/biswajit-github-2022/RKMVERI/tree/master/1st_sem_PAPERS_materials/STAT/EDA/EDA" target="blank_">Exploratory Data Analytics Using R on a Body Performance Dataset</a><br>
-
 <a href="https://linkedin.com/in/biswajit-rana" target="blank_"><img align="center"
             src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"
             alt="biswajit-rana" height="30" width="40" /></a>
@@ -43,6 +35,13 @@
             src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg"
             alt="biswajitrana" height="40" width="40" /></a>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+◽ Projects:<br>
+<a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_1" target="blank_">Classifying HandWirtten Digit MNIST dataset using KNN </a><br>
+<a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_2" target="blank_">Classifying satellite images in River and Non River class using NaiveBayes</a><br>
+<a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_3" target="blank_">Using Preceptron Algorithm to Fit a line Between two linearly seperable data</a><br>
+<a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_4" target="blank_">Using K-Means Clustering algo to create classes for Satellite images </a><br>
+<a href="https://github.com/biswajit-github-2022/RKMVERI/tree/master/1st_sem_PAPERS_materials/STAT/EDA/EDA" target="blank_">Exploratory Data Analytics Using R on a Body Performance Dataset</a><br>
  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 # 🎯Learned Skills :
