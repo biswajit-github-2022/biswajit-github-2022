@@ -36,6 +36,9 @@
 <a href="https://leetcode.com/u/biswajit276/" target="blank_"><img align="center"
             src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png"
             alt="biswajit276" height="40" width="40" /></a>
+<a href="https://discordapp.com/users/757970753605075124" target="blank_"><img align="center"
+            src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png"
+            alt="biswajitrana" height="40" width="40" /></a>
 
  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
