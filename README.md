@@ -1,3 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JavaScript digital clock with neon glow by barrd</title>
+  <style>
+    :root {
+      --color__black: #141518;
+      --color__red: #b00020;
+      --color__white: #f5f5f5;
+      --br: 0.5rem;
+      --bs: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    }
+
+    html {
+      background-color: var(--color__white);
+      background-image: url("data:image/svg+xml,%3Csvg width='6' height='6' viewBox='0 0 6 6' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='var(--color__black)' fill-opacity='0.1' fill-rule='evenodd'%3E%3Cpath d='M5 0h1L0 6V5zM6 5v1H5z'/%3E%3C/g%3E%3C/svg%3E");
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 1.5rem;
+      color: #444;
+      line-height: 1.5;
+    }
+
+    a {
+      color: #444;
+      text-decoration-color: #000;
+      text-decoration-thickness: 1px;
+      text-underline-offset: 0.25rem;
+      transition: 0.4s ease-in-out;
+    }
+
+    a:hover,
+    a:focus {
+      color: unset;
+      text-decoration-color: transparent;
+    }
+
+    h1 {
+      background-color: var(--color__white);
+      text-align: center;
+      line-height: 1.25;
+      max-width: 750px;
+      padding: 1rem;
+      margin: 40px auto;
+      border-radius: var(--br);
+    }
+
+    @font-face {
+      font-family: "barrd-led";
+      src: url("barrd-led.woff2") format("woff2");
+      font-weight: normal;
+      font-style: normal;
+      font-display: swap;
+    }
+
+    #digital-clock .inner {
+      background-color: var(--color__black);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      max-width: 50%;
+      min-height: 9rem;
+      margin: 0 auto;
+      border-radius: var(--br);
+      box-shadow: var(--bs);
+    }
+    @media (max-width: 768px) {
+      #digital-clock .inner {
+        max-width: 75%;
+        min-height: 6rem;
+      }
+    }
+    @media (max-width: 480px) {
+      #digital-clock .inner {
+        max-width: 90%;
+        min-height: 4rem;
+      }
+    }
+
+    #digital-clock .container {
+      display: inline-block;
+    }
+
+    #digital-clock #clock {
+      font-family: "barrd-led", Arial, Helvetica, sans-serif;
+      font-size: clamp(1rem, 4vw, 2.5rem);
+      line-height: 1;
+      letter-spacing: 0.25em;
+      color: #fff;
+      text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #f09,
+        0 0 82px #f09, 0 0 92px #f09, 0 0 102px #f09, 0 0 151px #f09;
+    }
+
+    #info {
+      background-color: var(--color__white);
+      text-align: center;
+      max-width: 500px;
+      padding: 1rem;
+      margin: 40px auto;
+      border-radius: var(--br);
+    }
+
+    noscript .text {
+      background-color: var(--color__white);
+      color: var(--color__red);
+      text-align: center;
+      max-width: 500px;
+      padding: 1rem;
+      margin: 40px auto;
+      border-radius: var(--br);
+    }
+  </style>
+</head>
+<body>
+  <noscript>
+    <!--- Engage Cloaking
+  </noscript>
+  <section id="digital-clock">
+    <div class="inner">
+      <div class="container">
+        <div id="clock"></div>
+      </div>
+    </div>
+  </section>
+  <noscript>
+    Disengage Cloaking -->
+  </noscript>
+  <script>
+    setInterval(function () {
+      const time = getCurrentTime();
+      document.getElementById("clock").innerText = time;
+    }, 1000);
+
+    function getCurrentTime() {
+      const dateObj = new Date();
+      const time = {
+        hours: dateObj.getHours(),
+        minutes: dateObj.getMinutes(),
+        seconds: dateObj.getSeconds(),
+      };
+
+      // Prepend 0 to hours for double digits
+      if (time.hours < 10) {
+        time.hours = "0" + time.hours;
+      }
+      // Prepend 0 to Minutes for double digits
+      if (time.minutes < 10) {
+        time.minutes = "0" + time.minutes;
+      }
+      // Prepend 0 to Seconds for double digits
+      if (time.seconds < 10) {
+        time.seconds = "0" + time.seconds;
+      }
+
+      // Format clock time "HH:MM:SS"
+      return time.hours + ":" + time.minutes + ":" + time.seconds;
+    }
+  </script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=50&duration=4986&pause=1000&color=00F781&background=0D111700&center=true&vCenter=true&width=1000&height=100&lines=🎲+WELCOME+TO+MY+GITHUB+PAGE+🎲" alt="Typing SVG" /></a><div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
