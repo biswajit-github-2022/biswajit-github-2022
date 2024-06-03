@@ -25,7 +25,8 @@
             src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"
             alt="biswajit-rana" height="30" width="40" /></a>
 <a href="https://instagram.com/biswajit_0_0_" target="blank_"><img align="center"
-            src="https://img.icons8.com/?size=100&id=hFoVFpm6gl9A&format=png&color=000000"
+            src="![image](https://github.com/biswajit-github-2022/biswajit-github-2022/assets/101043264/eac9be75-556b-4b10-bc5c-3c4f3d313ab3)
+"
             alt="biswajit_0_0_" height="30" width="32" /></a>
 <a href="https://www.facebook.com/biswajitrana13/" target="blank_"><img align="center"
             src="https://cdn.usbrandcolors.com/images/logos/facebook-logo.svg"
