@@ -40,7 +40,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<h1>📚Projects📚</h1><br>
+# 📚Projects📚
 <a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_1" target="blank_">Classifying HandWirtten Digit MNIST dataset using KNN </a><br>
 <a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_2" target="blank_">Classifying satellite images in River and Non River class using NaiveBayes</a><br>
 <a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_3" target="blank_">Using Preceptron Algorithm to Fit a line Between two linearly seperable data</a><br>
@@ -49,6 +49,7 @@
 
  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
 # 🎯Learned Skills🎯
   <div>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt=""> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt=""> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt=""> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt=""> <img src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=white" alt="">
@@ -80,13 +81,6 @@
     
    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
     
- # 🏆GitHub Trophies :
-    
-<img src="https://github-profile-trophy.vercel.app/?username=biswajit-github-2022&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
-
-<div align="center">
-  
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
   
   </div>
