@@ -1,19 +1,19 @@
-
-
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=50&duration=4986&pause=1000&color=00F781&background=0D111700&center=true&vCenter=true&width=1000&height=100&lines=🎲+WELCOME+TO+MY+GITHUB+PAGE+🎲" alt="Typing SVG" /></a><div>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=50&duration=4986&pause=1000&color=00F781&background=0D111700&center=true&vCenter=true&width=1000&height=100&lines=🎲+WELCOME+TO+MY+GITHUB+PAGE+🎲" alt="Typing SVG" />
+  </a>
+<div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![](https://komarev.com/ghpvc/?username=biswajit-github-2022&color=dc143c)
-  
 <h1 align="center">Hi there 👋🏼 Biswajit Here !</h1>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+</h1>👨🏼‍💻About Me👨🏼‍💻<h1>
 
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  
-# 👨🏼‍💻About Me👨🏼‍💻
-
-◽ Im a Web Developer/Data Science Student💻
+◽ Im a Data Science Student / WebDeveloper💻
+<br>
 ◽ Currently Learning  -Machine Learning , Time Series , Statistics , Big Data Technologies(Spark,Hadoop) <img src="" alt="" width="15px"><br>
 
 
@@ -37,7 +37,7 @@
             alt="biswajitrana" height="40" width="40" /></a><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 📚Projects📚
 <br>
 <a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_1" target="blank_">Classifying HandWirtten Digit MNIST dataset using KNN </a><br>
@@ -47,7 +47,7 @@
 <a href="https://github.com/biswajit-github-2022/RKMVERI/tree/master/1st_sem_PAPERS_materials/STAT/EDA/EDA" target="blank_">Exploratory Data Analytics Using R on a Body Performance Dataset</a><br>
 
  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 🎯Learned Skills🎯
   <div>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt=""> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt=""> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt=""> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt=""> <img src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=white" alt="">
@@ -67,7 +67,7 @@
     
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- # ⏳📈 My Stats : -->
- 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 # ⏳<img src="https://camo.githubusercontent.com/93b08cf9dfcbf01a8306ebc9b8acd61b0f4fbd9d2fb7cece3d6dbd6a56060c19/68747470733a2f2f692e696d6775722e636f6d2f5943773437446d2e676966" alt="">⏳
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biswajit-github-2022&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
