@@ -12,6 +12,9 @@
 <!--<h1 align="center">Hi there 👋🏼 Biswajit Here !</h1> -->
 <!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<svg height="40" width="200" xmlns="http://www.w3.org/2000/svg">
+  <text x="5" y="30" fill="none" stroke="red" font-size="35">I love SVG!</text>
+</svg>
 
 # 👨🏼‍💻About Me👨🏼‍💻
 ◽ Im a Data Science Student / WebDeveloper💻<br>
