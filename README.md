@@ -15,6 +15,9 @@
 <svg height="40" width="200" xmlns="http://www.w3.org/2000/svg">
   <text x="5" y="30" fill="none" stroke="red" font-size="35">I love SVG!</text>
 </svg>
+<svg width="100" height="100">
+  <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
+</svg>
 
 # 👨🏼‍💻About Me👨🏼‍💻
 ◽ Im a Data Science Student / WebDeveloper💻<br>
