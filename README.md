@@ -70,7 +70,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- # ⏳📈 My Stats : -->
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------  -->
-# ⏳<img src="https://camo.githubusercontent.com/93b08cf9dfcbf01a8306ebc9b8acd61b0f4fbd9d2fb7cece3d6dbd6a56060c19/68747470733a2f2f692e696d6775722e636f6d2f5943773437446d2e676966" alt="">⏳
+
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biswajit-github-2022&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
   
