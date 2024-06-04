@@ -6,11 +6,13 @@
 <div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+  
 ![](https://komarev.com/ghpvc/?username=biswajit-github-2022&color=dc143c)
   
 <h1 align="center">Hi there 👋🏼 Biswajit Here !</h1>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
 # 👨🏼‍💻About Me👨🏼‍💻
 
 ◽ Im a Data Science Student / WebDeveloper💻<br>
@@ -38,6 +40,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
 # 📚Projects📚
 <br>
 <a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_1" target="blank_">Classifying HandWirtten Digit MNIST dataset using KNN </a><br>
