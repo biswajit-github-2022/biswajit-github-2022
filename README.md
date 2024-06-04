@@ -65,6 +65,18 @@
   <img src="https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=Blender&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt=""> <img src="https://img.shields.io/badge/VSCodium-2F80ED.svg?style=for-the-badge&logo=VSCodium&logoColor=white" alt=""> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white" alt="">
 
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=Windows-11&logoColor=white" alt="">
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/gray" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/hotpink" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf9" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/orange/pink" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/_/eee" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/eee/_" />
+  
 <div/>
     
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
