@@ -13,8 +13,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<h1>👨🏼‍💻About Me👨🏼‍💻</h1>h1><br>
-
+<h1>👨🏼‍💻About Me👨🏼‍💻</h1><br>
 ◽ Im a Data Science Student / WebDeveloper💻<br>
 ◽ Currently Learning  -Machine Learning , Time Series , Statistics , Big Data Technologies(Spark,Hadoop) <img src="" alt="" width="15px"><br>
 
@@ -41,8 +40,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-# 📚Projects📚
-<br>
+<h1>📚Projects📚</h1><br>
 <a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_1" target="blank_">Classifying HandWirtten Digit MNIST dataset using KNN </a><br>
 <a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_2" target="blank_">Classifying satellite images in River and Non River class using NaiveBayes</a><br>
 <a href="https://github.com/biswajit-github-2022/RKMVERI_2ND/tree/main/class/ML/SS_assignments_3" target="blank_">Using Preceptron Algorithm to Fit a line Between two linearly seperable data</a><br>
