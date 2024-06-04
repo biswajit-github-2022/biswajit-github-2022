@@ -68,18 +68,18 @@
 <div/>
     
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<!-- # ⏳📈 My Stats : -->
-<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------  -->
 
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------  -->
+<div>
+
+<div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biswajit-github-2022&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)</div>
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biswajit-github-2022&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+ <div>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=biswajit-github-2022&theme=monokai&background=000000)](https://git.io/streak-stats)
+  </div>
   
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=biswajit-github-2022&theme=monokai&background=000000)](https://git.io/streak-stats)
-  
-  
-  ![Biswajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=biswajit-github-2022&theme=aura&show_icons=true)
-    
-   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+ <div>![Biswajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=biswajit-github-2022&theme=aura&show_icons=true)</div>
+</div>    
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
     
 
   
