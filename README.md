@@ -25,7 +25,7 @@
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/600px-Instagram_logo_2022.svg.png"
             alt="biswajit_0_0_" height="30" width="32" /></a>
 <a href="https://www.facebook.com/biswajitrana13/" target="blank_"><img align="center"
-            src="https://cdn.usbrandcolors.com/images/logos/facebook-logo.svg"
+            src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg"
             alt="biswajit_0_0_" height="33" width="40" /></a>
 <a href="https://twitter.com/B_R_0_0" target="blank_"><img align="center"
             src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png"
