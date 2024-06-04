@@ -13,7 +13,7 @@
 <!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<span style="font-size:10em;">👨🏼‍💻About Me👨🏼‍💻</span><br>
+# 👨🏼‍💻About Me👨🏼‍💻
 ◽ Im a Data Science Student / WebDeveloper💻<br>
 ◽ Currently Learning  -Machine Learning , Time Series , Statistics , Big Data Technologies(Spark,Hadoop) <img src="" alt="" width="15px"><br>
 
