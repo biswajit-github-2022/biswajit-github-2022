@@ -15,7 +15,7 @@
 
 # 👨🏼‍💻About Me👨🏼‍💻
 ◽ Im a Data Science Student / WebDeveloper💻<br>
-◽ Currently Learning  -Machine Learning , Time Series , Statistics , Big Data Technologies(Spark,Hadoop) <img src="" alt="" width="15px"><br>
+◽ Currently Learning  - Deep Learning , Time Series , Statistics , Big Data Technologies(Spark,Hadoop), php <img src="" alt="" width="15px"><br>
 
 
 <a href="https://linkedin.com/in/biswajit-rana" target="blank_"><img align="center"
