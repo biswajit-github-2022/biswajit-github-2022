@@ -1,9 +1,9 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<!-- <div align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=50&duration=4986&pause=1000&color=00F781&background=0D111700&center=true&vCenter=true&width=1000&height=100&lines=🎲+WELCOME+TO+MY+GITHUB+PAGE+🎲" alt="Typing SVG" />
   </a>
-<div> -->
+<div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
   
