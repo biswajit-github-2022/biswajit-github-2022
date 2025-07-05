@@ -1,5 +1,22 @@
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+
+
+
+[![wakatime](https://wakatime.com/badge/user/0f89afa4-1089-41cd-81da-b5f372408386.svg)](https://wakatime.com/@0f89afa4-1089-41cd-81da-b5f372408386)
+
+![](https://raw.githubusercontent.com/biswajit-github-2022/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/biswajit-github-2022/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+
+
+
+
+
+
+
+
   
 ![](https://komarev.com/ghpvc/?username=biswajit-github-2022&color=dc143c)
   
