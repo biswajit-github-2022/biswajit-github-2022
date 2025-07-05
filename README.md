@@ -9,9 +9,13 @@
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 # 👨🏼‍💻About Me👨🏼‍💻
-◽ Im a Data Science Student / WebDeveloper💻<br>
-◽ Currently Learning  - Deep Learning , Time Series , Statistics , Big Data Technologies(Spark,Hadoop), php <img src="" alt="" width="15px"><br>
-
+◽ Im a Data Science Student / Developer💻<br>
+◽ Currently Practicing  - Deep Learning , Time Series , Statistics , Big Data Technologies(Spark,Hadoop), php <img src="" alt="" width="15px"><br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <a href="https://linkedin.com/in/biswajit-rana" target="blank_"><img align="center"
             src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"
